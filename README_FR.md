@@ -20,6 +20,10 @@ Ce fork développé par **Ekiiii** enrichit melonDS et Project PM d'un **Overlay
 
 Conçu pour les streamers, les créateurs de contenu et les joueurs en coop, cet outil affiche à l'écran l'équipe du joueur et celles de ses amis avec des sprites animés, des barres de statut précises et un panneau de configuration rétro hautement personnalisable.
 
+<p align="center">
+  <img src="docs/images/obs_overlay_preview.png" alt="Aperçu Overlay OBS Live & Configurateur Rétro" width="920">
+</p>
+
 ### 🌟 Fonctionnalités Clés
 
 #### 1. 🎥 Overlay HTML Twitch & OBS en Direct (`http://localhost:8080/overlay`)
@@ -60,6 +64,10 @@ Conçu pour les streamers, les créateurs de contenu et les joueurs en coop, cet
 #### 5. 🖥️ Interface Graphique Dédiée Direct P2P (`Système -> Multijoueur -> Direct P2P...`)
 * **Onglet Héberger** : Création de salon en un clic, affichage du code de salon en grand format, bouton de copie, indicateur de statut UPnP, liste des joueurs connectés avec ping/latence en direct, et contrôles de session.
 * **Onglet Rejoindre** : Saisie du code de salon ou de l'IP, décodage immédiat, état de la connexion et liste des participants.
+
+<p align="center">
+  <img src="docs/images/direct_p2p_preview.png" alt="Fenêtre Direct P2P melonDS" width="420">
+</p>
 
 #### 6. ⚔️ Fonctionnalités Avancées pour Coop & Défis
 * Détection automatique des K.O. en combat et au cimetière (Boîte PC 18).

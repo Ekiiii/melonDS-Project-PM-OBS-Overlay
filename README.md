@@ -20,6 +20,10 @@ This fork by **Ekiiii** extends melonDS and Project PM with a broadcast-ready **
 
 It is designed to give streamers, content creators, and co-op players a seamless, zero-config on-screen overlay of their team and their friends' teams with animated sprites, live stats, and customizable retro styling.
 
+<p align="center">
+  <img src="docs/images/obs_overlay_preview.png" alt="Live OBS Overlay & Retro Configurator Preview" width="920">
+</p>
+
 ### 🌟 Key Additions & Features
 
 #### 1. 🎥 Multi-Player Live OBS / Twitch Streaming Overlay (`http://localhost:8080/overlay`)
@@ -60,6 +64,10 @@ It is designed to give streamers, content creators, and co-op players a seamless
 #### 5. 🖥️ Dedicated Direct P2P Window (`System -> Multiplayer -> Direct P2P...`)
 * **Host Tab**: One-click session creation, large room code display, copy button, UPnP diagnostic indicator, live roster with latency/ping times, and session controls.
 * **Join Tab**: Room code / IP input, instant decoding, connection status, and connected roster.
+
+<p align="center">
+  <img src="docs/images/direct_p2p_preview.png" alt="Direct P2P Window" width="420">
+</p>
 
 #### 6. ⚔️ Advanced Co-op & Challenge Run Features
 * Automatic death detection via PC Box 18 ("CIMETIERE") or in-battle fainting.
